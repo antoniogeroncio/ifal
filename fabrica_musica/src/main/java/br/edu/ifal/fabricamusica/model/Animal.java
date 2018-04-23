@@ -1,5 +1,7 @@
+package br.edu.ifal.fabricamusica.model;
 
 public class Animal {
+
 	private String descricao;
 	
 	public Animal(String descricao) {
